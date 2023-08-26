@@ -1,2 +1,3 @@
 # Repository_1
-Learning to use Github
+1. Learning to use GitHub
+2. Added FizzBuzz Code
